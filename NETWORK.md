@@ -1,16 +1,10 @@
-# 🌐 Zion App Network — Interlinks
+# AI Data Viz
 
-**ai-data-viz** is part of the Zion Tech Group app network (630+ apps).
+Intelligent charts, dashboards, and visualizations.
 
-- 📇 [Master Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md)
-- 🗂️ Category: [Data & Analytics](https://github.com/Zion-support/zion-network/blob/main/network/data-analytics.md)
+## Network
+- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
+- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
+- Related: [ai-chart-builder](https://github.com/Zion-support/ai-chart-builder) · [zion-smart-analytics-dashboard](https://github.com/Zion-support/zion-smart-analytics-dashboard) · [zion-ai-data-analyst](https://github.com/Zion-support/zion-ai-data-analyst) · [cloud-architect-diagram-builder](https://github.com/Zion-support/cloud-architect-diagram-builder)
 
-## Related apps
-- [ai-chart-builder](https://github.com/Zion-support/ai-chart-builder) — Data-driven charts automatically
-- [zion-smart-analytics-dashboard](https://github.com/Zion-support/zion-smart-analytics-dashboard) — AI-powered business analytics
-- [zion-ai-data-analyst](https://github.com/Zion-support/zion-ai-data-analyst) — Natural-language analytics
-- [sql-query-explainer](https://github.com/Zion-support/sql-query-explainer) — Plain-English SQL breakdowns
-- [zion-network](https://github.com/Zion-support/zion-network) — network hub
-
----
-🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
+*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
